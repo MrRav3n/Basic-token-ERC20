@@ -18,6 +18,8 @@ contract Token {
         decimals = _decimals;
         x = 10 ** uint(_decimals);
         _totalSupply =  __totalSupply * x;
+        balances[msg.sender] = _totalSupply/10;
+
     }
 
     function totalSupply() public view returns (uint256) {
