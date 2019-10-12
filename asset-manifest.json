@@ -1,7 +1,7 @@
 {
   "main.css": "/Basic-token-ERC20/static/css/main.5c49d662.chunk.css",
-  "main.js": "/Basic-token-ERC20/static/js/main.fc9e286a.chunk.js",
-  "main.js.map": "/Basic-token-ERC20/static/js/main.fc9e286a.chunk.js.map",
+  "main.js": "/Basic-token-ERC20/static/js/main.4a95d28e.chunk.js",
+  "main.js.map": "/Basic-token-ERC20/static/js/main.4a95d28e.chunk.js.map",
   "static/css/1.d3820e57.chunk.css": "/Basic-token-ERC20/static/css/1.d3820e57.chunk.css",
   "static/js/1.94966256.chunk.js": "/Basic-token-ERC20/static/js/1.94966256.chunk.js",
   "static/js/1.94966256.chunk.js.map": "/Basic-token-ERC20/static/js/1.94966256.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.5c49d662.chunk.css.map": "/Basic-token-ERC20/static/css/main.5c49d662.chunk.css.map",
   "static/css/1.d3820e57.chunk.css.map": "/Basic-token-ERC20/static/css/1.d3820e57.chunk.css.map",
   "index.html": "/Basic-token-ERC20/index.html",
-  "precache-manifest.c2129d05962c1a0b8eac0b67b7b536cb.js": "/Basic-token-ERC20/precache-manifest.c2129d05962c1a0b8eac0b67b7b536cb.js",
+  "precache-manifest.fe79e9c7d82b342f048459e51f611b8a.js": "/Basic-token-ERC20/precache-manifest.fe79e9c7d82b342f048459e51f611b8a.js",
   "service-worker.js": "/Basic-token-ERC20/service-worker.js"
 }

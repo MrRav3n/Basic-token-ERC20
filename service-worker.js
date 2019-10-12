@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Basic-token-ERC20/precache-manifest.c2129d05962c1a0b8eac0b67b7b536cb.js"
+  "/Basic-token-ERC20/precache-manifest.fe79e9c7d82b342f048459e51f611b8a.js"
 );
 
 workbox.clientsClaim();
