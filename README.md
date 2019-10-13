@@ -1,6 +1,6 @@
 # Basic ERC-20 Ethereum Token
 
-Decentralized website with react wbich use ethereum token with ERC-20 standard.
+Decentralized website with react wich uses ethereum token with ERC-20 standard.
 
 ## How to start
 Install dependencies.
